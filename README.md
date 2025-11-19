@@ -1,6 +1,6 @@
 # Sistema de Controle Financeiro Pessoal
 
-Este repositório contém o trabalho prático da disciplina de Teste de Software/Engenharia de Software. O objetivo principal é demonstrar a aplicação de testes automatizados e integração contínua (CI/CD) em um sistema de software.
+Este repositório contém o trabalho prático da disciplina de Teste de Software. O objetivo principal é demonstrar a aplicação de testes automatizados e integração contínua (CI/CD) em um sistema de software.
 
 ## 👨‍🎓 Membros do Grupo
 
